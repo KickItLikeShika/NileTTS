@@ -5,8 +5,8 @@ import numpy as np
 import pickle
 from speechbrain.pretrained import EncoderClassifier
 
-AUDIO_FILE = "data/general-convo/gen56/gen56.m4a"
-OUTPUT_FOLDER = "data/general-convo/gen56"
+AUDIO_FILE = "path/to/audio.m4a"
+OUTPUT_FOLDER = "path/to/output"
 MODEL_SIZE = "large"
 MAX_DURATION = 15
 CENTROIDS_FILE = "speaker_centroids.pkl"
