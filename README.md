@@ -76,15 +76,7 @@ The [`playground.ipynb`](playground.ipynb) notebook demonstrates:
 ## Citation
 
 If you use NileTTS in your research, please cite:
-
-```bibtex
-@inproceedings{niletts2025,
-  title={NileTTS: A Large-Scale Egyptian Arabic Dataset and Fine-tuned Model for Text-to-Speech},
-  author={[Authors]},
-  booktitle={Proceedings of the 2025 Conference of the European Chapter of the Association for Computational Linguistics (EACL)},
-  year={2025}
-}
-```
+[TO BE ADDED]
 
 ## License
 
