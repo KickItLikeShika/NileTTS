@@ -1,5 +1,7 @@
 # NileTTS
 
+**Paper**: https://arxiv.org/abs/2602.15675
+
 **NileTTS** is a large-scale Egyptian Arabic Text-to-Speech dataset and fine-tuned XTTS model. This repository contains the code for data generation, model training, and evaluation as described in our paper.
 
 ## Resources
