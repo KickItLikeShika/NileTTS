@@ -78,7 +78,20 @@ The [`playground.ipynb`](playground.ipynb) notebook demonstrates:
 ## Citation
 
 If you use NileTTS in your research, please cite:
-[TO BE ADDED]
+```
+@inproceedings{khamis-ahmed-2026-llm,
+    title = "{LLM}-to-Speech: A Synthetic Data Pipeline for Training Dialectal Text-to-Speech Models",
+    author = "Khamis, Ahmed  and
+      Ahmed, Hesham Ali",
+    booktitle = "Proceedings of the 2nd Workshop on {NLP} for Languages Using {A}rabic Script",
+    month = mar,
+    year = "2026",
+    address = "Rabat, Morocco",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.abjadnlp-1.6/",
+    pages = "47--54"
+}
+```
 
 ## License
 
